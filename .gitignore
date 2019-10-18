@@ -1,0 +1,35 @@
+.class
+.metadata
+.externalToolBuilders/
+.target
+*/target/*
+*/target/**
+bin/
+tmp/
+build/
+target/
+target/**
+
+# Eclipse
+.settings/
+.settings/
+.classpath
+.project
+
+#Dependency
+.gradle
+
+# Configuration Management
+.svn
+
+# files
+**.pdf
+**.zip
+
+# IntelliJ files
+.idea/
+.idea_modules/
+.externalToolBuilders/
+/out/
+*.iml
+*.iws
